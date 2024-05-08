@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <Forecast />
       <footer>
-        This project was coded by
+        This project was coded by  
         <span>
           <a
             href="https://github.com/linegrr"
@@ -16,13 +16,13 @@ export default function App() {
           >
             Line Granseth 
           </a>
-          and is 
+           and is 
           <a
             href="https://github.com/linegrr/react-weather"
             target="_blank"
             rel="noopener noreferrer"
           >
-            on GitHub 
+             on GitHub 
           </a>
           and 
           <a
@@ -30,7 +30,7 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify 
+             hosted on Netlify 
           </a>
         </span>
       </footer>
