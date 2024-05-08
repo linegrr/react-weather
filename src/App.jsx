@@ -14,23 +14,23 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Line Granseth
+            Line Granseth 
           </a>
-          and is
+          and is 
           <a
             href="https://github.com/linegrr/react-weather"
             target="_blank"
             rel="noopener noreferrer"
           >
-            on GitHub
+            on GitHub 
           </a>
-          and
+          and 
           <a
             href="https://willowy-faloodeh-cfcb68.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            hosted on Netlify 
           </a>
         </span>
       </footer>
