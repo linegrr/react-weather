@@ -41,7 +41,7 @@ export default function Search() {
           <li>Description: {message.Description}</li>
           <li>Humidity: {message.Humidity}%</li>
           <li>Wind: {message.Wind}km/h</li>
-          <li> <img src={message.Icon}></img></li>
+          <li> <img src={message.Icon} alt="weather-icon"></img></li>
         </ul>
         </div>
       </div>
