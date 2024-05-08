@@ -9,17 +9,26 @@ export default function App() {
       <footer>
         This project was coded by
         <span>
-          <a href="https://github.com/linegrr" target="_blank">
+          <a
+            href="https://github.com/linegrr"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Line Granseth
           </a>
           and is
-          <a href="https://github.com/linegrr/react-weather" target="_blank">
+          <a
+            href="https://github.com/linegrr/react-weather"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             on GitHub
           </a>
           and
           <a
             href="https://willowy-faloodeh-cfcb68.netlify.app/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             hosted on Netlify
           </a>
